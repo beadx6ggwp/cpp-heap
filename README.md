@@ -103,6 +103,7 @@ cpp-heap/
   ```bash
   ctest
   ```
+  or `ctest -C Debug --rerun-failed --output-on-failure`
 - Add new tests in `tests/test_heap.cpp`.
 
 ## CI/CD
